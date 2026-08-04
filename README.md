@@ -1,6 +1,6 @@
 <h3 align="center">IoT + Real-time</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2A8&height=180&section=header&text=Rudra&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20EE%20|%20Full-Stack%20Dev%20|%20IoT%20|%20Kolkata&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2A8&height=180&section=header&text=Rudra&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20CSE%20|%20Full-Stack%20Dev%20|%20AI&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/Rudrahihu">
@@ -34,8 +34,10 @@
 ### 🚀 Featured Projects
 
 - **Real-Time Chat App** — React + Node.js + Socket.io + SQLite, with typing indicators, online/offline status, and message delivery ticks
-- **Smart Load Shedding Management System** — Smart energy meter based load monitoring and shedding control
-- **Residential Floor Plan Design** — Full first-floor layout design for a 22'6" × 47'8" plot
+- **Notes App** — Simple, clean note-taking app
+- **PC Optimization Tool** — Utility for cleaning up and speeding up a PC
+- **Web Development Projects** — Various front-end and full-stack builds
+- **Song Player** — Music/audio player web app
 
 ### 📊 GitHub Stats
 
